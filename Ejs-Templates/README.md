@@ -6,6 +6,7 @@
 3. Each ToDo item should be associated with its author, and only the author should be able to modify or delete it.
 4. Ensure that user authentication is handled via custom headers containing the author's ID.
 5. Use CSS to style your EJS templates. You may search for resources on how to integrate CSS with EJS.
+6. As a bonus, implement functionality to allow users to add an image along with their ToDo item using Multer.
 
 ## Folder Structure:
 - Models
